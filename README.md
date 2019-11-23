@@ -4,10 +4,6 @@ A program that can merge a series of files containing JSON array of Objects into
 <b>Language:</b><br>
 Java
 
-<b>Preliminary requirements to execute:</b><br>
-Download Jar File for Json Object from the below link:<br>
-http://search.maven.org/remotecontent?filepath=com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
-
 <b>Steps to Execute:</b><br>
 <i>Use the below command for compiling:</i><br>
 javac -cp json-simple-1.1.1.jar Merge.java<br>
